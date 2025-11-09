@@ -80,4 +80,4 @@ These findings can guide Bellabeat in improving user engagement, promoting healt
 
 ## 🔗 Notebook Access
 
-* [Bellabeat_Case_Study_Python.ipynb](You can place the direct link to the file here)
+* [Bellabeat_Case_Study_Python.ipynb](https://github.com/nesibebas/Bellabeat_Case_Study_Python/blob/main/bellabeat-case-study-python.ipynb)
